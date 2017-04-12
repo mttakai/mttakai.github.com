@@ -5,8 +5,10 @@ permalink: /research/
 ---
 
 
-# Topics of interests  
+## Topics of interests  
 
-## Noise prediction models  
-## Simulation methods  
-## Noise Mapping   
+### Road noise prediction models  
+Specially the Japanese ASJ-RTN-Model.  
+
+### Road Noise Mapping   
+Methods and application of noise prediction models in GIS systems.
