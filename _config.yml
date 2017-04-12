@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :
-tagline: Site Tagline
+title : Marjorie Takai
+#tagline: Site Tagline
 author :
   name : Marjorie Takai
   email : marjorie.takai@gmail.com
