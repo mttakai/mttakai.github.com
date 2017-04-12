@@ -1,15 +1,6 @@
 ---
-layout: page
-title: About me
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-Master student at the University of Tokyo, supervised by the professor [Shinichi Sakamoto](http://www.acoust.iis.u-tokyo.ac.jp/index_eng.htm)
-
-## Some background
-###  Academic
-- Sao Paulo University (USP), Bachelor's degree in Physics  
-- University of Tokyo (東京大学), Master
-
-### Work
-- Institute of , Environmental Comfort Laboratory, Acoustics Department
-- Bradesco Bank, Market Risk Modelling
-- Harmonia Acustica,
