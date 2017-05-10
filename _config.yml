@@ -1,27 +1,11 @@
 # Site wide configuration
 
-description: 
+title: Marjorie Takai
+#locale: en_US
+description: some topics of my interest gathered in one place
 logo: site-logo.png
 search: true
 url: https://mttakai.github.io/
-
-title:
-  en: Marjorie Takai
-  jp: Marjorie Takai
-email: marjorie.takai@gmail.com
-description:
-  en: some topics of my interest gathered in one place
-  jp: 興味があることを一ヶ所に集めてある。
-index:
-  en:
-  jp: /index.html
-feed:
-  en: /feed.xml
-  jp: /jp/flux.xml
-
-
-
-
 
 # Jekyll configuration
 
