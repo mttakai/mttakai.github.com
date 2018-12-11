@@ -1,0 +1,68 @@
+---
+title: Marjorie Takai
+timezone: Asia/Tokyo
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: some topics of my interest gathered in one place
+logo: site-logo.png
+search: true
+url: https://mttakai.github.io/
+permalink: "/:categories/:title/"
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+mathjax: true
+include:
+- ".htaccess"
+exclude:
+- lib
+- config.rb
+- Capfile
+- config
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- ".less"
+- "*.sublime-project"
+- "*.sublime-workspace"
+- test
+- spec
+- Gruntfile.js
+- package.json
+- node_modules
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- vendor
+owner:
+  name: Marjorie Takai
+  avatar: pp.jpg
+  email: marjorie.takai@protonmail.com
+  linkedin: 
+  google:
+    plus: Marjorie Takai
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
