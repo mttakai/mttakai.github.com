@@ -1,13 +1,13 @@
 ---
-layout: page
 title: About me
-excerpt: "A little bit about me"
-modified: 2017-05-06T19:44:38.564948-04:00
-image: 
+layout: page
+excerpt: A little bit about me
+modified: 2017-05-06 23:44:38.564000000 Z
+image:
   feature: img04s.JPG
   credit: Marjorie Takai
-#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+
 Master student at the University of Tokyo, supervised by the professor [Shinichi Sakamoto](http://www.acoust.iis.u-tokyo.ac.jp/index_eng.htm)
 
 # Some background

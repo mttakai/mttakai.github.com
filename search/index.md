@@ -1,9 +1,8 @@
 ---
+title: Search
 layout: page
-title: "Search"
-date:
-modified:
-excerpt:
+modified: 
+excerpt: 
 image:
   feature: img02s.JPG
   credit: Marjorie Takai
